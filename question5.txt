@@ -1,0 +1,11 @@
+PART (b)
+i) the WHERE clause is used to filter out data on the basis of a specific criterion.
+
+ii) the GROUP BY clause is used to group data similar data together based on the same value of an attribute.
+
+iii) the DISTINCT clause is used to retrieve data without showing duplicate values of an attribute.
+
+iv) SELECT clause is used to retrieve and display data in a database where the result is displayed in a result-set.
+
+v) ORDER BY is used to order data either in ascending or descending order.
+

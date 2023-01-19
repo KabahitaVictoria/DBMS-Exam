@@ -1,0 +1,5 @@
+- A database improves efficiency because it saves time since data is retrieved quickly and easily.
+- It provides data integrity because the data stored is consistent thus making data reliable.
+- A database provides security by only allowing authorised access to the right people.
+- It can allow access to many users simultaneously thus providing added efficiency.
+- A database provides means for the data to be backed up in case data is accidentally lost.

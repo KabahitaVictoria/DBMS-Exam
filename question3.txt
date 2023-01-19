@@ -1,0 +1,12 @@
+- MySQL 
+- PostgreSQL
+- Oracle
+- Microsoft access
+- SQL Server 
+
+They are used in;
+- schools to store student and teacher details
+- hospitals to store patient information
+- pharmaceuticals to store information about drugs
+- businesses to store information about employees, stock and profits
+- banks to keep track of money and accounts of clients

@@ -1,0 +1,11 @@
+- One-to-One: This type of relationship occurs when only one occurance in the first relation can be matched to one
+    occurance in the other relation in the database.
+
+- One-to-many: This type of relationship occurs when only one occurance in the first relation can be matched to one
+ or more occurances in the other relation in the database.
+
+- Many-to-One: This type of relationship occurs when one or more occurances in the first relation can be matched to
+    only one occurance in the other relation in the database.
+
+- Many-to-Many: This type of relationship occurs when one or more occurances in the first relation can be matched to
+    one or more occurances in the other relation in the database.

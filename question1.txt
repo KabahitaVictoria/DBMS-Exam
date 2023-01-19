@@ -1,0 +1,12 @@
+i) Database is a collection of data organised in tables for the purpose of ease of use, 
+    efficient management and retrieval.
+
+ii) Database Management System is a software program that helps to create and manipulate a database.
+
+iii) SQL stands for Structured Query Language. It is a language that is used to define, 
+    control and manage data in a database.
+
+iv) Foreign key is a constraint that prevents destruction of links between relations in a database. 
+    It is a key in a relation that represents a primary key in another relation.
+
+v) Primary key is a constraint that uniquely identifies a record in a relation.
